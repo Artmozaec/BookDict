@@ -1,0 +1,5 @@
+-libraryjars C:\WTK2.5.1\lib\wma20.jar;C:\WTK2.5.1\lib\mmapi.jar;C:\WTK2.5.1\lib\jsr75.jar;C:\WTK2.5.1\lib\jsr082.jar;C:\WTK2.5.1\lib\j2me-ws.jar;C:\WTK2.5.1\lib\j2me-xmlrpc.jar;C:\WTK2.5.1\lib\jsr184.jar;C:\WTK2.5.1\lib\jsr179.jar;C:\WTK2.5.1\lib\satsa-apdu.jar;C:\WTK2.5.1\lib\satsa-jcrmi.jar;C:\WTK2.5.1\lib\satsa-pki.jar;C:\WTK2.5.1\lib\satsa-crypto.jar;C:\WTK2.5.1\lib\jsr211.jar;C:\WTK2.5.1\lib\jsr238.jar;C:\WTK2.5.1\lib\jsr229.jar;C:\WTK2.5.1\lib\jsr180.jar;C:\WTK2.5.1\lib\jsr234.jar;C:\WTK2.5.1\lib\jsr226.jar;C:\WTK2.5.1\lib\jsr239.jar;C:\WTK2.5.1\lib\midpapi20.jar;C:\WTK2.5.1\lib\cldcapi11.jar
+-injars C:\WTK2.5.1\apps\BookImage\bin\BookImage.jar
+-outjar C:\DOCUME~1\toxa.PREMIER\Local Settings\Temp\BookImage.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames
